@@ -30,7 +30,7 @@ grabs your screen into video file
 
 # step 1: source screencast.sh file 
 
-$ souce ./screencast.sh
+$ source ./screencast.sh
 
 # step 2: screencast function become available and ready to use
 
