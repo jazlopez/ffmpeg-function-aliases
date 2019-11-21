@@ -21,3 +21,25 @@ FFMPEG aliases for editing & capturing screen
 | file   |   muxer   | packets      |   encoder
 |________|           |______________|
 ```
+
+### screencast.sh
+
+grabs your screen into video file
+
+```bash
+
+# step 1: source screencast.sh file 
+
+$ souce ./screencast.sh
+
+# step 2: screencast function become available and ready to use
+
+$ screencast
+
+# Create screencast from input screen... please wait...
+# ....................................................
+#
+#  Usage:
+#
+#   screencast :screen_id
+```
