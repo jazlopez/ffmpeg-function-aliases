@@ -26,6 +26,14 @@ FFMPEG aliases for editing & capturing screen
 
 grabs your screen into video file
 
+#### capture defaults
+
+| Log Level | Capture Cursor | Capture Mouse Clicks | Framerate |
+--- | --- | --- | --- |
+| 24 | Yes | Yes . | ntsc | 
+
+#### example capture
+
 ```bash
 
 # step 1: source screencast.sh file 
